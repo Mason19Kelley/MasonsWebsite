@@ -48,5 +48,5 @@ hr {
 }
 
 .new-bg {
-  background-color: black;
+  background: rgba(0, 0, 0, 0.5);
 }
